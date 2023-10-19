@@ -1,0 +1,4 @@
+/farchive-venv
+.vscode
+__pycache__
+*.pyc
